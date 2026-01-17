@@ -1,9 +1,0 @@
-streamlit>=1.28.0
-PyPDF2>=3.0.0
-
-# AI Provider (choose one):
-# OpenAI - Recommended! Get key from: https://platform.openai.com/api-keys
-openai>=1.0.0
-
-# Google Gemini (alternative) - Get key from: https://aistudio.google.com/apikey  
-# google-generativeai>=0.8.0
